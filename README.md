@@ -1,16 +1,21 @@
-## Hi there 👋
+<img src="https://github.com/aaryavseth.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
 
-<!--
-**aaryavseth/aaryavseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aaryav Seth
+### Software and AI/ML Developer | Student
 
-Here are some ideas to get you started:
+Passionate Software Engineer and AI/ML Dev with expertise in full-stack development and cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack**
+- Advanced: `Python` `MySQL` `HTML`
+- Intermediate: `C++` `Java` `AI Development`
+
+📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryavseth&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryavseth&theme=dark" alt="GitHub Streak" />
+</p>
+
+🤝 **Connect With Me**
+- [GitHub](https://github.com/aaryavseth)
+- [LinkedIn](https://linkedin.com/in/aaryav-seth)
+- [Email](mailto:aaryavseth@gmail.com)
