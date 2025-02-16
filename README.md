@@ -1,5 +1,3 @@
-<img src="https://github.com/aaryavseth.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
-
 # Aaryav Seth
 ### Software and AI/ML Developer | Student
 
