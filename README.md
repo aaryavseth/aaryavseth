@@ -1,19 +1,15 @@
-# Aaryav Seth
-### Software and AI/ML Developer | Student
+# Hi there 👋 I'm Aaryav Seth
 
-Passionate Software Engineer and AI/ML Dev with expertise in full-stack development and cloud technologies.
+Student
 
-🛠️ **Tech Stack**
-- Advanced: `Python` `MySQL` `HTML`
-- Intermediate: `C++` `Java` `AI Development`
+Building software with passion and purpose.
 
-📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryavseth&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryavseth&theme=dark" alt="GitHub Streak" />
-</p>
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/aaryav-seth)
 
-🤝 **Connect With Me**
-- [GitHub](https://github.com/aaryavseth)
-- [LinkedIn](https://linkedin.com/in/aaryav-seth)
-- [Email](mailto:aaryavseth@gmail.com)
+## 💻 Tech Stack
+![C++](https://img.shields.io/badge/C++-3b82f6?style=for-the-badge&logo=C++&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3b82f6?style=for-the-badge&logo=SQL&logoColor=white)
+![Java](https://img.shields.io/badge/Java-eab308?style=for-the-badge&logo=Java&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-22c55e?style=for-the-badge&logo=Rust&logoColor=white)
