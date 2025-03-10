@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Aaryav Seth
 
-Student
-
-Building software with passion and purpose.
+I am a student based out of Washington with a passion for AI and ML Development.
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/aaryav-seth)
